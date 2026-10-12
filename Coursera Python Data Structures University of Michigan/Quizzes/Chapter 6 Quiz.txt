@@ -5,7 +5,7 @@ sol)    Hellothere
 sol)    42
 
 3> How would you use the index operator [] to print out the letter q from the following string? x = 'From marquard@uct.ac.za'
-sol)    print(x[8])
+sol)    print(x[11])
 
 4> How would you use string slicing [:] to print out 'uct' from the following string? x = 'From marquard@uct.ac.za'
 sol)    print(x[14:17])
