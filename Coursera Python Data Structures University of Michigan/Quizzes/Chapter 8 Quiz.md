@@ -14,7 +14,7 @@ sol)  Nothing would print the program fails with a traceback
 sol)  print(len(data))
 
 6> What type of data is produced when you call the range() function? x = range(5)
-sol)  A list of integers
+sol)  A range object
 
 7> What does the following Python code print out? a = [1, 2, 3]; b = [4, 5, 6]; c = a + b; print len(c)
 sol)  6
